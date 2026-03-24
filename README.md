@@ -65,4 +65,4 @@ Para fins de teste e avaliação da aplicação, abaixo estão as respostas corr
 
 Abaixo encontra-se a demonstração em vídeo comprovando a compilação bem-sucedida e o funcionamento de todos os requisitos estipulados na atividade, incluindo navegação, validação, cronômetro e animações.
 
-https://github.com/user-attachments/assets/1785ea2e-1733-4f29-90b9-ef6619d59110
+https://github.com/user-attachments/assets/fc57c19a-0711-4f8c-9501-3a302f980c8d
