@@ -48,6 +48,19 @@ O projeto atende a todos os requisitos base e extras propostos na especificaçã
 
 ---
 
+## Gabarito das Pistas
+
+Para fins de teste e avaliação da aplicação, abaixo estão as respostas corretas exigidas para avançar em cada uma das telas. A validação no código foi implementada para ignorar diferenças de maiúsculas/minúsculas e acentuação simples.
+
+* **Pista 1:** "O que é, o que é: cai em pé e corre deitado?"
+  * **Resposta esperada:** chuva
+* **Pista 2:** "Tem cabeça, tem dente, tem barba, não é bicho e não é gente."
+  * **Resposta esperada:** alho
+* **Pista 3:** "Nasce grande e morre pequeno."
+  * **Resposta esperada:** lapis (ou lápis)
+
+---
+
 ## Evidência de Funcionamento
 
 Abaixo encontra-se a demonstração em vídeo comprovando a compilação bem-sucedida e o funcionamento de todos os requisitos estipulados na atividade, incluindo navegação, validação, cronômetro e animações.
